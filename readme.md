@@ -31,7 +31,7 @@ I am Indonesian, I am still a high school student who works as a backend web dev
 ### Find me on
 <p>
 <a href="https://www.linkedin.com/in/rino-satya-putra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/rinosatyaputraa"><img src="https://img.shields.io/badge/rinosatyaputraa%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/rino.satyaputra"><img src="https://img.shields.io/badge/rinosatyaputraa%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
