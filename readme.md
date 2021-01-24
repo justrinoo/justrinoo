@@ -1,6 +1,6 @@
 # Hi, I'm Rino Satya Putra :grin:
 
-I am Indonesian, I am still a high school student who works as a backend web developer and has become a full stack web developer, I like music & games, I can work with the team well. I am currently busy learning new things about technology, especially for websites :v:
+I am an Indonesian, I am still a high school student studying as a backend web developer and want to become a full stack web developer, I can work with the team well. Currently I am busy learning new things about technology, especially for websites :v:
 
 ### Things I'm working with
 <p>
