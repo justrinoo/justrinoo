@@ -8,5 +8,5 @@
 
 ### Connect With Me: [LinkedIn](https://www.linkedin.com/in/rino-satya-putra-940539173/)
 
-
+![github stats](https://github-readme-stats.vercel.app/api?username=riyaraa&show_icons=true)
 
