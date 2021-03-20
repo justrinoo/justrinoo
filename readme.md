@@ -1,4 +1,4 @@
-## Hi There Happy Nice Day!
+## Hello World And Freinds!
 
 ### 🇮🇩 フロントエンド Web Developer | Javascript Enthusiast | Student /FrntEnd/ Web
  
