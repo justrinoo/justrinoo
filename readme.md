@@ -1,6 +1,6 @@
 ## Hello World And Freinds!
 
-### 🇮🇩 フロントエンド Web Developer | Javascript Enthusiast | Student /FrntEnd/ Web
+### 🇮🇩 フロントエンド Web Developer | Javascript Enthusiast 
  
 ### every day I deal with the frontend but also the backend almost like a full stack web developer.I also enjoy learning new things about technology, especially on websites
 
