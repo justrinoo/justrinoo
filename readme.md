@@ -1,6 +1,6 @@
 ### 🇮🇩 フロントエンド Web Developer | Javascript Enthusiast 
  
-### im is a fresh graduate of Frontend Interested Web Developer, I always learn new things about  technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn to learn new things. and now I'm in the midst of my career to become a software engineer.
+### im is a fresh graduate of Frontend Interested Web Developer, I always learn new things about  technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn new things. and now I'm in the midst of my career to become a software engineer.
 
 ### Connect With Me: [LinkedIn](https://www.linkedin.com/in/rino-satya-putra-940539173/)
 
