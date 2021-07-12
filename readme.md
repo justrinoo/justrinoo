@@ -1,11 +1,25 @@
-### 🇮🇩 フロントエンド
- 
-### im is a fresh graduate of Frontend Interested Web Developer, I always learn new things about  technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn new things. and now I'm in the midst of my career to become a software engineer.
+### Hello Freind, My Name is Rino
 
-#### Connect With Me: [LinkedIn](https://www.linkedin.com/in/rino-satya-putra-940539173/)
+- 🌏 I am From Indonesia
+- :shipit:  I am Like and Enthusiast Javascript
+- :computer: I am always learn new things about website technology 
+- :runner: I am is a Freshgraduate Senior High School, and now I'm in the midst of my career to become a software engineer.
 
 
-[![hannoeru's github stats](https://github-readme-stats.vercel.app/api?username=riyaraa&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaraa&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+ <h2 align="center"> Tech Stack </h2>
+ <img height="40" src="https://img.icons8.com/color/50/000000/html.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/26e07f/css.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/000000/js.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/26e07f/bootstrap.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+ <img height="40" src="https://img.icons8.com/plasticine/100/26e07f/react.png"/>
+ <img height="40" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/000000/npm.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/000000/figma.png"/>
+</div>
 
-<div align="center"><p align="center">Discord</p><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" /></div>
+
+<div align="center"><h2 align="center">Discord</h2><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" /></div>
