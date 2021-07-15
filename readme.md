@@ -11,7 +11,6 @@
  <img height="40" src="https://img.icons8.com/color/50/000000/html.png"/>
  <img height="40" src="https://img.icons8.com/color/48/26e07f/css.png"/>
  <img height="40" src="https://img.icons8.com/color/48/000000/js.png"/>
- <img height="40" src="https://img.icons8.com/color/48/26e07f/bootstrap.png"/>
  <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
  <img height="40" src="https://img.icons8.com/plasticine/100/26e07f/react.png"/>
  <img height="40" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
