@@ -1,4 +1,4 @@
-name: Waka and Commit Stats
+name: Auto Commit
 
 on:
 
@@ -36,5 +36,4 @@ jobs:
         with:
           force: true
           directory: "."
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
