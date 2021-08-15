@@ -1,4 +1,4 @@
-### Hello Freind, My Name is Rino
+### Hello Freinds, My Name is Rino
 
 - 🌏 I am From Indonesia
 - :shipit:  I am Like and Enthusiast Javascript
