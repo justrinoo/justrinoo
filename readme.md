@@ -5,16 +5,6 @@
 - :computer: I am always learn new things about website technology 
 - :runner: I am is a Freshgraduate Senior High School, and now I'm in the midst of my career to become a software engineer.
 
-
-
-
-<!--START_SECTION:waka-->
-```text
-HTML         1 hr 34 mins    ████████████████▒░░░░░░░░   65.88 % 
-JavaScript   48 mins         ████████▒░░░░░░░░░░░░░░░░   33.64 % 
-```
-<!--END_SECTION:waka-->
-
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
