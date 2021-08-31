@@ -12,5 +12,8 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center"><h2 align="center">Discord</h2><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" /></div>
 
