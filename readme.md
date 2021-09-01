@@ -13,6 +13,13 @@
 </div>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   14 hrs 44 mins  ███████████████░░░░░░░░░░   60.21 % 
+JSX          7 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   31.88 % 
+HTML         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+SCSS         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+```
 <!--END_SECTION:waka-->
 
 <div align="center"><h2 align="center">Discord</h2><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" /></div>
