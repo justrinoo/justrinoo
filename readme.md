@@ -1,16 +1,10 @@
-### Hi 😃✋ I am Rino Satya Putra, Welcome! 
-- 🌏 I am From Indonesia
-- :shipit:  I am Like and Enthusiast Javascript
-- :computer: I am always learn new things about website technology 
-- :runner: I am is a Freshgraduate Senior High School, and now I'm in the midst of my career to become a software engineer.
+### Hello, I'am Rino Satya Putra
 
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</div>
+> I'am is a FreshGraduate of Frontend Interested Junior Web Developer (Fullstack Javascript), I always learn new things about technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn new things. and now I'am currently learning how to become Software Engineer.
 
+
+
+### Activity Main
 <!--START_SECTION:waka-->
 ```text
 JavaScript   14 hrs 44 mins  ███████████████░░░░░░░░░░   60.21 % 
@@ -21,6 +15,41 @@ SCSS         11 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
- <div align="center"><h2 align="center">Discord</h2><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" /></div>
+### Current Jobs 
+- Self study from morning until night
+
+### Contact
+ <a href="mailto:rinosatyaputra.id@gmail.com">  
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
+ </a>
+ <a href="https://t.me/riyaraa">  
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  />
+ </a>
+
+ 
+### Find Me
+  <a href="https://www.linkedin.com/in/rino-satya-putra-940539173/">  
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />
+ </a>
+ <a href="https://twitter.com/riyaraaa">  
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  />
+ </a>
+ <a href="https://instagram.com/rinoosp">  
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  />
+ </a>
+  <a href="https://dev.to/riyaraa">  
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  />
+ </a>
+ 
+ ### Other
+  <a href="https://open.spotify.com/user/2mhxhhmrxobkflh618rnmzn8d?si=ba7e442ceb324f20">  
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"  />
+ </a>
+
+
+ <div align="center">
+  <h2 align="center">Discord</h2><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" />
+</div>
+
 
 
