@@ -21,6 +21,6 @@ SCSS         11 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Rino Satya Putra GitHub stats](https://github-readme-stats.vercel.app/api?username=riyaraa&show_icons=true&theme=radical) 
+ <div align="center"><h2 align="center">Discord</h2><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" /></div>
 
 
