@@ -16,6 +16,7 @@ SCSS         11 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Current Jobs 
+  <img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 - Self study from morning until night
 
 ### Contact
