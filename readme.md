@@ -48,7 +48,10 @@ SCSS         11 mins         ▒░░░░░░░░░░░░░░░░
 
 
  <div align="center">
-  <h2 align="center">Discord</h2><img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" />
+  <h2 align="center">Discord</h2>
+ <a href="https://discord.com/users/446571129100828672"> 
+ <img src="https://discord.c99.nl/widget/theme-3/446571129100828672.png" />
+ </a>
 </div>
 
 
