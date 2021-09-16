@@ -3,18 +3,6 @@
 > I'am is a FreshGraduate of Junior Web Developer (Fullstack Javascript), I always learn new things about technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn new things. and now I'am currently learning how to become Software Engineer.
 
 
-
-### Activity Main
-<!--START_SECTION:waka-->
-```text
-JavaScript   14 hrs 44 mins  ███████████████░░░░░░░░░░   60.21 % 
-JSX          7 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   31.88 % 
-HTML         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-SCSS         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-```
-<!--END_SECTION:waka-->
-
 ### Current Jobs 
   <img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 - Self study from morning until night
