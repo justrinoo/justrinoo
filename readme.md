@@ -7,5 +7,5 @@ Checkout my personal website <a href="https://rinosatyaputra.vercel.app">here</a
 
 <!--END_SECTION:waka-->
 
-### Tool Of War :fire:
+### Tools Of War :fire:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=id">Javascript</a> | <a href="https://nodejs.org/en/">NodeJs</a> | <a href="https://reactjs.org/">ReactJs</a> | <a href="https://expressjs.com/">ExpressJs</a> | <a href="https://nextjs.org/">NextJs</a> | <a href="https://www.mysql.com/">Mysql</a> | <a href="https://www.mongodb.com/">MongoDb</a> | <a href="https://tailwindcss.com">TailwindCSS</a> 
