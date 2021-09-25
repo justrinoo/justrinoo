@@ -6,11 +6,11 @@ Checkout my personal website <a href="https://rinosatyaputra.vercel.app">here</a
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   32 hrs 13 mins  ████████████████████████▒   97.48 % 
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Text         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript   38 hrs 17 mins  ████████████████████████▒   97.63 % 
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Text         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
 
