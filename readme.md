@@ -6,12 +6,12 @@ Checkout my personal website <a href="https://rinosatyaputra.vercel.app">here</a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2021 - 25 September, 2021
+Week: 20 September, 2021 - 26 September, 2021
 
-JavaScript   41 hrs 4 mins   ████████████████████████▒   97.79 % 
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Text         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JavaScript   42 hrs 23 mins  ████████████████████████▒   97.96 % 
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
