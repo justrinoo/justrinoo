@@ -10,11 +10,11 @@ Checkout my personal website <a href="https://rinosatyaputra.vercel.app">here</a
 ```text
 Week: 21 September, 2021 - 27 September, 2021
 
-JavaScript   42 hrs 23 mins  ████████████████████████▒   97.96 % 
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Text         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript   41 hrs 28 mins  ████████████████████████▒   97.41 % 
+Text         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JSON         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Bash         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
