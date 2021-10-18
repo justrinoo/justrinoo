@@ -3,9 +3,6 @@
 
 > I'am is a FreshGraduate of Junior Web Developer ( Fullstack Javascript ), I always learn new things about technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn new things. and now I'am currently learning how to become Software Engineer.
 
-![Rino Satya Putra card name](https://cardivo.vercel.app/api?name=Rino%20Satya%20Putra&description=Javascript%20Enthusiast&image=https://avatars.githubusercontent.com/riyaraa?v=4&backgroundColor=%23F9F9F9&fontColor=%232D2424&iconColor=%23000&instagram=rinoosp&linkedin=Rino%20Satya%20Putra&github=riyaraa&colorPattern=%23eaeaea&opacity=0.3)
-
-
 <!--START_SECTION:waka-->
 ```text
 Week: 11 October, 2021 - 17 October, 2021
