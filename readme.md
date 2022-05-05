@@ -12,9 +12,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 03 May 2022
-
-JavaScript   2 hrs 51 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
