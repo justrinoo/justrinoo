@@ -7,10 +7,10 @@ on:
       - main
       
   schedule:
-  - cron: "0 7,0,11,18 * * *"
+  - cron: "0 * * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
 
 jobs:
-  auto_commit:
+  fetch-bellshadebot:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2      
@@ -20,7 +20,6 @@ jobs:
 
       - name: Modify last update
         run: |
-          cat > LAST_UPDATED
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
           
@@ -28,12 +27,14 @@ jobs:
         run: |
           git config --local user.email "rinosatyaputra.id@gmail.com"
           git config --local user.name "riyaraa"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add -A
-          git commit -m "Yoo Whats'up?"
+          git commit -am "Yoo Sir: Whatsup!"
+          git push
           
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.5.0
-        with:
-          force: true
-          directory: "."
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+#       - name: GitHub Push
+#         uses: ad-m/github-push-action@v0.5.0
+#         with:
+#           force: true
+#           directory: "."
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
