@@ -1,5 +1,3 @@
-![Rino Card Name](https://cardivo.vercel.app/api?name=Rino%20Satya%20Putra&description=FrontEnd%20as%20Fullstack%20Javascript%20Developer&image=https://avatars.githubusercontent.com/u/50629099?v=4&backgroundColor=%231A374D&linkedin=Rino%20Satya%20Putra&github=riyaraa&pattern=topography&colorPattern=%23324468&fontColor=%23ffffff&iconColor=%23ffffff)
-
 > Graduate Senior High School From Jakarta, of Junior Web Developer Interested Frontend Developer ( Fullstack Javascript ), I always learn new things about technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn new things. and now I'am currently learning how to become Software Engineer.
  
  ### Tools
