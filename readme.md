@@ -22,6 +22,6 @@ I'm Rino, a Frontend Engineer base in Indonesia.
 <!--END_SECTION:waka-->
 
 ### Let's Talk?
-[![Experiences](https://skillicons.dev/icons?i=linkedin)]([[https://skillicons.dev](https://www.linkedin.com/in/rinosatyaputra)](https://www.linkedin.com/in/rinosatyaputra/))
+[![Experiences](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/rinosatyaputra](https://www.linkedin.com/in/rinosatyaputra/))
 
 ![](https://komarev.com/ghpvc/?username=riyaraa)
