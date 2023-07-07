@@ -1,22 +1,28 @@
-> Graduate Senior High School From Jakarta, of Junior Web Developer Interested Frontend Developer ( Fullstack Javascript ), I always learn new things about technology especially on websites, I am also disciplined to be able to work individually and in a team and have a high desire to learn new things. and now I'am currently learning how to become Software Engineer.
- 
- ### Tools
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=id">Javascript</a> | <a href="https://nodejs.org/en/">NodeJs</a> | <a href="https://reactjs.org/">ReactJs</a> | <a href="https://expressjs.com/">ExpressJs</a> | <a href="https://nextjs.org/">NextJs</a> | <a href="https://www.mysql.com/">Mysql</a> | <a href="https://www.mongodb.com/">MongoDb</a> | <a href="https://tailwindcss.com">TailwindCSS</a> | <a href="https://trello.com">Trello</a> | <a href="https://figma.com">Figma</a> 
-<details>
-  <summary>My Stats in Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=riyaraa&show_icons=true&theme=github_dark" />
-</details>
+## Hi, Rino here! :wave:
 
- <!--START_SECTION:waka-->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=riyaraa&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
 
-```txt
-From: 29 June 2023 - To: 06 July 2023
+I'm Rino, a Frontend Engineer base in Indonesia.
 
-TypeScript       4 hrs 19 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.05 %
-JavaScript       4 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.15 %
-Blade Template   1 hr 15 mins    ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.59 %
-PHP              32 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.07 %
-JSON             15 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.39 %
-```
+-   :hammer_and_pick: Javascript / TypeScript / ReactJs / NextJs / Remix 
 
+-   :hourglass_flowing_sand: Currently learning Typescript advance, Micro Frontend and Frontend Performance.
+
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/riyaraa/riyaraa/discussions/new)!
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,php,nodejs,react,next,tailwindcss,sass,bootstrap,redux,remix,vite,mongodb,mysql,git,github,gitlab,figma)](https://skillicons.dev)
+
+### :bar_chart: [My Activities Last Month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## Let's Talk?
+[![Experiences](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/rinosatyaputra/))
+[![Gmail](https://skillicons.dev/icons?i=gmail)]([https://skillicons.dev](https://www.linkedin.com/in/rinosatyaputra/))
+
+![](https://komarev.com/ghpvc/?username=riyaraa)
