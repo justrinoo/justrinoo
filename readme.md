@@ -16,12 +16,12 @@ I'm Rino, a Frontend Engineer base in Indonesia.
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,php,nodejs,react,next,tailwindcss,sass,bootstrap,redux,remix,vite,mongodb,mysql,git,github,gitlab,figma)](https://skillicons.dev)
 
-### :bar_chart: [My Activities Last Month](https://github.com/muety/wakapi)
+### My Activities
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## Let's Talk?
+### Let's Talk?
 [![Experiences](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/rinosatyaputra/))
 [![Gmail](https://skillicons.dev/icons?i=gmail)]([https://skillicons.dev](https://www.linkedin.com/in/rinosatyaputra/))
 
