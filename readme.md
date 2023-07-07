@@ -13,6 +13,8 @@ I'm Rino, a Frontend Engineer base in Indonesia.
 
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/riyaraa/riyaraa/discussions/new)!
 
+-   :raised_hands: Lets Collaboration? [Linkedin](https://www.linkedin.com/in/rinosatyaputra)!
+
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,php,nodejs,react,next,tailwindcss,sass,bootstrap,redux,remix,vite,mongodb,mysql,git,github,gitlab,figma)](https://skillicons.dev)
 
@@ -20,8 +22,5 @@ I'm Rino, a Frontend Engineer base in Indonesia.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-### Let's Talk?
-[![Experiences](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/rinosatyaputra](https://www.linkedin.com/in/rinosatyaputra/))
 
 ![](https://komarev.com/ghpvc/?username=riyaraa)
