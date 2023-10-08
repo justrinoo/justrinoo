@@ -23,7 +23,7 @@ I'm Rino, a Frontend Engineer base in Indonesia.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
 JavaScript       9 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.85 %
 JSON             49 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.82 %
