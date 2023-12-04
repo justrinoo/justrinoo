@@ -1,7 +1,7 @@
 ## Hi, Rino here! :wave:
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=riyaraa&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=justrinoo&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
 
@@ -11,7 +11,7 @@ I'm Rino, a Frontend Engineer base in Indonesia.
 
 -   :hourglass_flowing_sand: Currently learning Typescript advance, Micro Frontend and Frontend Performance.
 
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/riyaraa/riyaraa/discussions/new)!
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/justrinoo/justrinoo/discussions/new)!
 
 -   :raised_hands: Lets Collaboration? [Linkedin](https://www.linkedin.com/in/rinosatyaputra)!
 
