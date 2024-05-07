@@ -5,7 +5,7 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
 
-I'm Rino, a Frontend Engineer base in Indonesia.
+I'm Rino, a Software Engineer base in Indonesia.
 
 -   :hammer_and_pick: Javascript / TypeScript / ReactJs / NextJs / Remix 
 
