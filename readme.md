@@ -11,7 +11,7 @@ I'm Rino, a Software Engineer base in Indonesia.
 
 -   :hourglass_flowing_sand: Currently learning Typescript advance, Micro Frontend and Frontend Performance.
 
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/justrinoo/justrinoo/discussions/new)!
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/justrinoo/justrinoo/discussions/3)!
 
 -   :raised_hands: Lets Collaboration? [Linkedin](https://www.linkedin.com/in/rinosatyaputra)!
 
