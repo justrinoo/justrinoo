@@ -23,13 +23,13 @@ I'm Rino, a Software Engineer base in Indonesia.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2024 - To: 07 August 2024
+From: 01 August 2024 - To: 08 August 2024
 
-JavaScript   28 hrs 32 mins  █████████████████░░░░░░░░   67.92 %
-TypeScript   8 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-PHP          1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-JSON         1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Bash         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JavaScript   29 hrs 29 mins  ██████████████████▓░░░░░░   74.60 %
+TypeScript   6 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+PHP          1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+JSON         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
