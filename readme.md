@@ -1,22 +1,18 @@
-## Hi, Rino here! :wave:
+# Hi, Rino here! 👋
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=justrinoo&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=justrinoo&theme=dark&show_icons=true">
+  <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
 
-I'm Rino, a Software Engineer base in Indonesia.
+### About Me
 
--   :hammer_and_pick: Javascript / TypeScript / ReactJs / NextJs / Remix 
+I'm **Rino**, a passionate Software Engineer based in Indonesia 🇮🇩. I specialize in building modern web applications with a focus on performance and scalability.
 
--   :hourglass_flowing_sand: Currently learning Typescript advance, Micro Frontend and Frontend Performance.
-
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/justrinoo/justrinoo/discussions/3)!
-
--   :raised_hands: Lets Collaboration? [Linkedin](https://www.linkedin.com/in/rinosatyaputra)!
-
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,php,nodejs,react,next,tailwindcss,sass,bootstrap,redux,remix,vite,mongodb,mysql,git,github,gitlab,figma)](https://skillicons.dev)
+- 🔨 **Tech Stack:** JavaScript / TypeScript / React.js / Next.js / Remix
+- ⏳ **Currently Learning:** Advanced TypeScript, Micro Frontends, and Frontend Performance Optimization.
+- 💬 **Ask Me Anything:** Have questions? Let's chat on [Discussions](https://github.com/justrinoo/justrinoo/discussions/3)!
+- 🤝 **Let's Collaborate:** Open to collaboration opportunities. Connect with me on [LinkedIn](https://www.linkedin.com/in/rinosatyaputra)!
 
 ### My Activities
 
