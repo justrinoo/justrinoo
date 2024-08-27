@@ -19,14 +19,14 @@ I'm **Rino**, a passionate Software Engineer based in Indonesia 🇮🇩. I spec
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-Total Time: 35 hrs 7 mins
+Total Time: 37 hrs 29 mins
 
-JavaScript    26 hrs 10 mins  >>>>>>>>>>>>>>>>>>-------   71.21 %
-TypeScript    5 hrs 34 mins   >>>>---------------------   15.16 %
-PHP           2 hrs 26 mins   >>-----------------------   06.66 %
-Other         1 hr 37 mins    >------------------------   04.42 %
+JavaScript    23 hrs 15 mins  >>>>>>>>>>>>>>>----------   59.63 %
+TypeScript    10 hrs 34 mins  >>>>>>>------------------   27.11 %
+PHP           2 hrs 29 mins   >>-----------------------   06.39 %
+Other         1 hr 31 mins    >------------------------   03.89 %
 ```
 
 <!--END_SECTION:waka-->
