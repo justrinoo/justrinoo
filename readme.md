@@ -1,13 +1,6 @@
 # Hi, Rino here! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=justrinoo&theme=dark&show_icons=true">
-  <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
-
-### About Me
-
-I'm **Rino**, a passionate Software Engineer based in Indonesia 🇮🇩. I specialize in building modern web applications with a focus on performance and scalability.
+I'm **Rino**, a passionate Software Engineer based in Indonesia. I specialize in building modern web applications with a focus on performance and scalability.
 
 - 🔨 **Tech Stack:** Typescript | NextJs | Remix | Astro | React Native | Vue3
 - ⏳ **Currently Learning:** About UI/UX Design, Query Optimization, and more.
