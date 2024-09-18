@@ -12,16 +12,16 @@ I'm **Rino**, a passionate Software Engineer based in Indonesia. I specialize in
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Total Time: 26 hrs 39 mins
+Total Time: 26 hrs 50 mins
 
-TypeScript    23 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.81 %
-JavaScript    1 hr 18 mins    >------------------------   04.87 %
-Bash          31 mins         -------------------------   01.98 %
-JSON          30 mins         -------------------------   01.92 %
-PHP           28 mins         -------------------------   01.78 %
-Other         10 mins         -------------------------   00.64 %
+TypeScript    22 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>>----   83.63 %
+JavaScript    2 hrs 22 mins   >>-----------------------   08.74 %
+Bash          48 mins         >------------------------   02.98 %
+JSON          29 mins         -------------------------   01.84 %
+PHP           28 mins         -------------------------   01.76 %
+Other         16 mins         -------------------------   01.04 %
 ```
 
 <!--END_SECTION:waka-->
